@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "66e262577d66755de45d60de"
+  },
+  "name": "Pankaj 01",
+  "username": "pankaj01",
+  "email": "pankajksh01@gmail.com",
+  "password": "$2b$10$7LDe0j2hNBF.07YQN8fc2.7kPZM0ekq91MeN4wgGDZNxzYcR2.h4q",
+  "date": {
+    "$date": "2024-09-12T03:39:03.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e28d1310c0f9a49257ce3d"
+  },
+  "name": "Shravni Dhokare",
+  "username": "shravni",
+  "email": "shravnidhokare@gmail.com",
+  "password": "$2b$10$FOB.ZOZNYEZNJ3wONnGp2.1uZ4zbfK.li7/tEGL9uvhiX8xck.IQC",
+  "date": {
+    "$date": "2024-09-12T06:41:23.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e2c0dcb531002185d3efe6"
+  },
+  "name": "Pankajks 01",
+  "username": "csdvcsdbkj",
+  "email": "pankukshirsagar@gmail.com",
+  "password": "$2b$10$Yvdn/yWcyfjRqJrqxvGVY.ZrERxvog5XL1anDObzR7go56dIUJA86",
+  "date": {
+    "$date": "2024-09-12T10:22:20.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e2c19db531002185d3efea"
+  },
+  "name": "shubham",
+  "username": "shubham123",
+  "email": "shubhamchormare04@gmail.com",
+  "password": "$2b$10$LKhoqmvAgwYKuLU5I2.fd.kZ4TiVjqhPU1tGjOwLYIVWJSOJCBZrO",
+  "date": {
+    "$date": "2024-09-12T10:25:33.392Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e576a02c6703b1dde176aa"
+  },
+  "name": "Vishal Kshirsagar",
+  "username": "VishalKsh00",
+  "email": "vishalksh00@gmail.co",
+  "password": "$2b$10$DmMrPkrnPxpfKiRWGf14.ezvsH6WJVd3TwOpZzv7VKjmO.ctoz5DO",
+  "date": {
+    "$date": "2024-09-14T11:42:24.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e5776a2c6703b1dde176b6"
+  },
+  "name": "Vishal Dada",
+  "username": "vishalksh00",
+  "email": "vishalksh00@gmail.com",
+  "password": "$2b$10$gqNp8jQPllL930sv6syHTuvsGMc0Q72z1bLs1LcBcGQrdYak1QqZS",
+  "date": {
+    "$date": "2024-09-14T11:45:46.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e71a31f498f7fc0317cf44"
+  },
+  "name": "Nilu Paul",
+  "username": "Nilu",
+  "email": "nilu@gmail.com",
+  "password": "$2b$10$ErgFuPVi/gPzzo1mIhOojeHGEIlHSnUOvlkgJ6C7VYoRkgzqvmYQO",
+  "date": {
+    "$date": "2024-09-15T17:32:33.024Z"
+  },
+  "__v": 0
+}]
